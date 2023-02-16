@@ -21,7 +21,7 @@ The model was evaluated using the ROC curve, Gini coefficient, and Kolmogorov-Sm
 
 The dataset used for this project is sourced from [LendingClub](https://www.lendingclub.com/) and consists of historical data on loans issued by the platform. The data includes information such as loan amount, interest rate, borrower income, and credit score, as well as whether the loan was fully paid off or defaulted.
 
-The dataset can be found in the `data` directory and is split into separate training and testing sets.
+The dataset can be found here: [Dataset](https://www.dropbox.com/s/tq3xz0piqitnc59/loan_data_2007_2014.csv?dl=0)
 
 ## Preprocessing
 
