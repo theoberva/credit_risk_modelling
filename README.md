@@ -52,8 +52,7 @@ The model is trained using a logistic regression algorithm, which is a popular a
 
 The trained model is evaluated on the testing set to assess its performance. The evaluation metrics used include the ROC curve, Gini coefficient, and Kolmogorov-Smirnov test. The evaluation code and results can be found in the `PD_Model.ipynb` file.
 
-![download (1)](https://user-images.githubusercontent.com/100107358/220803462-c982532f-69b9-4eda-95b1-357a43908a41.png)
-![download (2)](https://user-images.githubusercontent.com/100107358/220803475-f6e7fafa-6b00-4ec5-a78d-13d04d7791d1.png)
+![image](https://user-images.githubusercontent.com/100107358/220804705-4b5aaa6d-1327-4235-a981-c6f92f9b25c9.png)
 
 
 ## Scorecard
